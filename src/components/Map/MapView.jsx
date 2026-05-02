@@ -1,7 +1,9 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 import { MAP_CONFIG } from '../../config/mapConfig.js'
+import { addAviationWfsLayers } from '../../layers/aviation/addAviationWfsLayers.js'
+import { AVIATION_WFS_LAYERS } from '../../layers/aviation/aviationWfsLayers.js'
 import './MapView.css'
 
 const ROAD_VISIBILITY_ZOOM = 8
@@ -11,8 +13,6 @@ const VISIBLE_ROAD_COLORS = {
   trunks: '#c6d1dd',
   motorways: '#b9c7d4',
 }
-const FIR_SOURCE_ID = 'rkrr-fir'
-const FIR_OUTLINE_LAYER_ID = 'rkrr-fir-outline'
 
 function applyRoadVisibility(map, showRoads) {
   map.setConfigProperty('basemap', 'colorRoads', showRoads ? VISIBLE_ROAD_COLORS.roads : HIDDEN_ROAD_COLOR)
@@ -20,32 +20,36 @@ function applyRoadVisibility(map, showRoads) {
   map.setConfigProperty('basemap', 'colorMotorways', showRoads ? VISIBLE_ROAD_COLORS.motorways : HIDDEN_ROAD_COLOR)
 }
 
-function addFirLayers(map) {
-  if (!map.getSource(FIR_SOURCE_ID)) {
-    map.addSource(FIR_SOURCE_ID, {
-      type: 'geojson',
-      data: '/rkrr_fir.geojson',
-    })
+function setLayerVisibility(map, layer, isVisible) {
+  const visibility = isVisible ? 'visible' : 'none'
+
+  if (layer.fillLayerId && map.getLayer(layer.fillLayerId)) {
+    map.setLayoutProperty(layer.fillLayerId, 'visibility', visibility)
   }
 
-  if (!map.getLayer(FIR_OUTLINE_LAYER_ID)) {
-    map.addLayer({
-      id: FIR_OUTLINE_LAYER_ID,
-      type: 'line',
-      source: FIR_SOURCE_ID,
-      slot: 'top',
-      paint: {
-        'line-color': '#2563eb',
-        'line-width': 2,
-        'line-opacity': 0.85,
-      },
-    })
+  if (map.getLayer(layer.lineLayerId)) {
+    map.setLayoutProperty(layer.lineLayerId, 'visibility', visibility)
   }
+}
+
+function createInitialLayerVisibility() {
+  return AVIATION_WFS_LAYERS.reduce((visibility, layer) => {
+    visibility[layer.id] = layer.defaultVisible
+    return visibility
+  }, {})
 }
 
 function MapView() {
   const mapContainerRef = useRef(null)
   const mapRef = useRef(null)
+  const [layerVisibility, setLayerVisibilityState] = useState(createInitialLayerVisibility)
+
+  function toggleAviationLayer(layerId) {
+    setLayerVisibilityState((currentVisibility) => ({
+      ...currentVisibility,
+      [layerId]: !currentVisibility[layerId],
+    }))
+  }
 
   useEffect(() => {
     if (!mapContainerRef.current || mapRef.current) {
@@ -88,7 +92,10 @@ function MapView() {
       let roadsVisible = map.getZoom() >= ROAD_VISIBILITY_ZOOM
 
       applyRoadVisibility(map, roadsVisible)
-      addFirLayers(map)
+      addAviationWfsLayers(map, import.meta.env.VITE_VWORLD_KEY, import.meta.env.VITE_VWORLD_DOMAIN)
+      AVIATION_WFS_LAYERS.forEach((layer) => {
+        setLayerVisibility(map, layer, layerVisibility[layer.id])
+      })
 
       map.on('zoom', () => {
         const shouldShowRoads = map.getZoom() >= ROAD_VISIBILITY_ZOOM
@@ -108,7 +115,37 @@ function MapView() {
     }
   }, [])
 
-  return <div ref={mapContainerRef} className="map-view" />
+  useEffect(() => {
+    const map = mapRef.current
+
+    if (!map?.isStyleLoaded()) {
+      return
+    }
+
+    AVIATION_WFS_LAYERS.forEach((layer) => {
+      setLayerVisibility(map, layer, layerVisibility[layer.id])
+    })
+  }, [layerVisibility])
+
+  return (
+    <div className="map-view-wrapper">
+      <div ref={mapContainerRef} className="map-view" />
+      <div className="dev-layer-panel" aria-label="Developer layer toggles">
+        <div className="dev-layer-panel-title">Layers</div>
+        {AVIATION_WFS_LAYERS.map((layer) => (
+          <label key={layer.id} className="dev-layer-toggle">
+            <input
+              type="checkbox"
+              checked={layerVisibility[layer.id]}
+              onChange={() => toggleAviationLayer(layer.id)}
+            />
+            <span className="dev-layer-swatch" style={{ background: layer.color }} />
+            <span>{layer.nameEn}</span>
+          </label>
+        ))}
+      </div>
+    </div>
+  )
 }
 
 export default MapView
