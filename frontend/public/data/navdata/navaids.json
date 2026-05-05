@@ -1,0 +1,200 @@
+{
+  "CJU": {
+    "channel": "CH 108X",
+    "coordinates": {
+      "lat": 33.384722,
+      "lon": 126.624167
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 2800,
+    "frequency": "116.1MHz",
+    "hours": "H24",
+    "id": "CJU",
+    "latDms": "332305N",
+    "lonDms": "1263727E",
+    "name": "JEJU",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "7\u00b0W"
+  },
+  "CUN": {
+    "channel": "CH 95X",
+    "coordinates": {
+      "lat": 36.631944,
+      "lon": 128.325278
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 400,
+    "frequency": "114.8MHz",
+    "hours": "H24",
+    "id": "CUN",
+    "latDms": "363755N",
+    "lonDms": "1281931E",
+    "name": "YECHEON",
+    "source": "ENR 4.1",
+    "type": "VOR/DME",
+    "variation": "8\u00b0W"
+  },
+  "KAE": {
+    "channel": "CH 103X",
+    "coordinates": {
+      "lat": 37.700833,
+      "lon": 128.753889
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 3400,
+    "frequency": "115.6MHz",
+    "hours": "H24",
+    "id": "KAE",
+    "latDms": "374203N",
+    "lonDms": "1284514E",
+    "name": "GANGWON",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "9\u00b0W"
+  },
+  "KPO": {
+    "channel": "CH 72X",
+    "coordinates": {
+      "lat": 35.977222,
+      "lon": 129.474444
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 800,
+    "frequency": "112.5MHz",
+    "hours": "H24",
+    "id": "KPO",
+    "latDms": "355838N",
+    "lonDms": "1292828E",
+    "name": "POHANG",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "8\u00b0W"
+  },
+  "KUZ": {
+    "channel": "CH 75X",
+    "coordinates": {
+      "lat": 35.910278,
+      "lon": 126.611389
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 0,
+    "frequency": "112.8MHz",
+    "hours": "H24",
+    "id": "KUZ",
+    "latDms": "355437N",
+    "lonDms": "1263641E",
+    "name": "GUNSAN",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "7\u00b0W"
+  },
+  "KWA": {
+    "channel": "CH 91X",
+    "coordinates": {
+      "lat": 35.126111,
+      "lon": 126.812222
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 100,
+    "frequency": "114.4MHz",
+    "hours": "H24",
+    "id": "KWA",
+    "latDms": "350734N",
+    "lonDms": "1264844E",
+    "name": "GWANGJU",
+    "source": "ENR 4.1",
+    "type": "VOR/DME",
+    "variation": "8\u00b0W"
+  },
+  "KWJ": {
+    "channel": "CH 88X",
+    "coordinates": {
+      "lat": 35.123056,
+      "lon": 126.802778
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 100,
+    "frequency": "1175MHz",
+    "hours": "H24",
+    "id": "KWJ",
+    "latDms": "350723N",
+    "lonDms": "1264810E",
+    "name": "GWANGJU",
+    "source": "ENR 4.1",
+    "type": "TACAN",
+    "variation": "8\u00b0W"
+  },
+  "PSN": {
+    "channel": "CH 87X",
+    "coordinates": {
+      "lat": 35.1225,
+      "lon": 128.999444
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 1900,
+    "frequency": "114.0MHz",
+    "hours": "H24",
+    "id": "PSN",
+    "latDms": "350721N",
+    "lonDms": "1285958E",
+    "name": "BUSAN",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "7\u00b0W"
+  },
+  "SEL": {
+    "channel": "CH 102X",
+    "coordinates": {
+      "lat": 37.413611,
+      "lon": 126.928333
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 900,
+    "frequency": "115.5MHz",
+    "hours": "H24",
+    "id": "SEL",
+    "latDms": "372449N",
+    "lonDms": "1265542E",
+    "name": "ANYANG",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "8\u00b0W"
+  },
+  "SOT": {
+    "channel": "CH 116X",
+    "coordinates": {
+      "lat": 37.094444,
+      "lon": 127.031667
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 100,
+    "frequency": "116.9MHz",
+    "hours": "H24",
+    "id": "SOT",
+    "latDms": "370540N",
+    "lonDms": "1270154E",
+    "name": "SONGTAN",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "8\u00b0W"
+  },
+  "TGU": {
+    "channel": "CH 59X",
+    "coordinates": {
+      "lat": 35.809722,
+      "lon": 128.590833
+    },
+    "cycle": "AIP AMDT 12/24",
+    "elevationFt": 2200,
+    "frequency": "112.2MHz",
+    "hours": "H24",
+    "id": "TGU",
+    "latDms": "354835N",
+    "lonDms": "1283527E",
+    "name": "DALSEONG",
+    "source": "ENR 4.1",
+    "type": "VORTAC",
+    "variation": "8\u00b0W"
+  }
+}

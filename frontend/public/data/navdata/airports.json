@@ -1,0 +1,218 @@
+{
+  "RKJB": {
+    "airportUse": "civil",
+    "amosStn": 163,
+    "coordinates": {
+      "lat": 34.9914,
+      "lon": 126.3828
+    },
+    "id": "RKJB",
+    "name": "Muan International Airport",
+    "runwayHdg": 10,
+    "source": "User provided / AD 1.3"
+  },
+  "RKJJ": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.123173,
+      "lon": 126.805444
+    },
+    "id": "RKJJ",
+    "name": "Gwangju Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKJK": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.903801,
+      "lon": 126.615997
+    },
+    "id": "RKJK",
+    "name": "Gunsan Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKJY": {
+    "airportUse": "civil",
+    "amosStn": 167,
+    "coordinates": {
+      "lat": 34.8424,
+      "lon": 127.6162
+    },
+    "id": "RKJY",
+    "name": "Yeosu Airport",
+    "runwayHdg": 170,
+    "source": "User provided / AD 1.3"
+  },
+  "RKNW": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 37.437113,
+      "lon": 127.960051
+    },
+    "id": "RKNW",
+    "name": "Wonju Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKNY": {
+    "airportUse": "civil",
+    "amosStn": 92,
+    "coordinates": {
+      "lat": 38.0613,
+      "lon": 128.6692
+    },
+    "id": "RKNY",
+    "name": "Yangyang International Airport",
+    "runwayHdg": 150,
+    "source": "User provided / AD 1.3"
+  },
+  "RKPC": {
+    "airportUse": "civil",
+    "amosStn": 182,
+    "coordinates": {
+      "lat": 33.5104,
+      "lon": 126.4929
+    },
+    "id": "RKPC",
+    "name": "Jeju International Airport",
+    "runwayHdg": 70,
+    "source": "User provided / AD 1.3"
+  },
+  "RKPD": {
+    "airportUse": "civil",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 33.399601,
+      "lon": 126.711998
+    },
+    "id": "RKPD",
+    "name": "Jeongseok Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKPK": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.1795,
+      "lon": 128.9382
+    },
+    "id": "RKPK",
+    "name": "Gimhae International Airport",
+    "runwayHdg": 180,
+    "source": "User provided / AD 1.3"
+  },
+  "RKPS": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.088591,
+      "lon": 128.071747
+    },
+    "id": "RKPS",
+    "name": "Sacheon Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKPU": {
+    "airportUse": "civil",
+    "amosStn": 151,
+    "coordinates": {
+      "lat": 35.5935,
+      "lon": 129.3518
+    },
+    "id": "RKPU",
+    "name": "Ulsan Airport",
+    "runwayHdg": 180,
+    "source": "User provided / AD 1.3"
+  },
+  "RKSI": {
+    "airportUse": "civil",
+    "amosStn": 113,
+    "coordinates": {
+      "lat": 37.4602,
+      "lon": 126.4407
+    },
+    "id": "RKSI",
+    "name": "Incheon International Airport",
+    "runwayHdg": 150,
+    "source": "User provided / AD 1.3"
+  },
+  "RKSM": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 37.444744,
+      "lon": 127.112718
+    },
+    "id": "RKSM",
+    "name": "Seoul Air Base",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKSS": {
+    "airportUse": "civil",
+    "amosStn": 110,
+    "coordinates": {
+      "lat": 37.5586,
+      "lon": 126.7906
+    },
+    "id": "RKSS",
+    "name": "Gimpo International Airport",
+    "runwayHdg": 140,
+    "source": "User provided / AD 1.3"
+  },
+  "RKTH": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.987955,
+      "lon": 129.420383
+    },
+    "id": "RKTH",
+    "name": "Pohang Gyeongju Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKTL": {
+    "airportUse": "civil",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 36.777049,
+      "lon": 129.461861
+    },
+    "id": "RKTL",
+    "name": "Uljin Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKTN": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 35.894394,
+      "lon": 128.656989
+    },
+    "id": "RKTN",
+    "name": "Daegu International Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  },
+  "RKTU": {
+    "airportUse": "joint",
+    "amosStn": null,
+    "coordinates": {
+      "lat": 36.71556,
+      "lon": 127.500289
+    },
+    "id": "RKTU",
+    "name": "Cheongju International Airport",
+    "runwayHdg": null,
+    "source": "OurAirports / AD 1.3"
+  }
+}

@@ -1,0 +1,3890 @@
+{
+  "AGAVO": {
+    "coordinates": {
+      "lat": 37.166667,
+      "lon": 124.0
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "AGAVO",
+    "latDms": "371000N",
+    "lonDms": "1240000E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y644",
+      "Y697",
+      "Z52"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "AGSUS": {
+    "coordinates": {
+      "lat": 36.755833,
+      "lon": 130.678889
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "AGSUS",
+    "latDms": "364521N",
+    "lonDms": "1304044E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "G597",
+      "Y572",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "AKPON": {
+    "coordinates": {
+      "lat": 33.780556,
+      "lon": 127.331389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "AKPON",
+    "latDms": "334650N",
+    "lonDms": "1271953E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ANDOL": {
+    "coordinates": {
+      "lat": 37.666111,
+      "lon": 133.0
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ANDOL",
+    "latDms": "373958N",
+    "lonDms": "1330000E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "L512"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ANKUS": {
+    "coordinates": {
+      "lat": 35.125,
+      "lon": 128.771111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ANKUS",
+    "latDms": "350730N",
+    "lonDms": "1284616E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697",
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ANROD": {
+    "coordinates": {
+      "lat": 34.632778,
+      "lon": 128.497778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ANROD",
+    "latDms": "343758N",
+    "lonDms": "1282952E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ANSIM": {
+    "coordinates": {
+      "lat": 37.389722,
+      "lon": 124.835833
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ANSIM",
+    "latDms": "372323N",
+    "lonDms": "1245009E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ANUBA": {
+    "coordinates": {
+      "lat": 35.129444,
+      "lon": 127.589722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ANUBA",
+    "latDms": "350746N",
+    "lonDms": "1273523E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "APARU": {
+    "coordinates": {
+      "lat": 35.411667,
+      "lon": 129.158889
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "APARU",
+    "latDms": "352442N",
+    "lonDms": "1290932E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "APELA": {
+    "coordinates": {
+      "lat": 34.723056,
+      "lon": 129.233333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "APELA",
+    "latDms": "344323N",
+    "lonDms": "1291400E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ATASO": {
+    "coordinates": {
+      "lat": 35.895556,
+      "lon": 126.949167
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ATASO",
+    "latDms": "355344N",
+    "lonDms": "1265657E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ATOTI": {
+    "coordinates": {
+      "lat": 30.003611,
+      "lon": 125.198333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ATOTI",
+    "latDms": "300013N",
+    "lonDms": "1251154E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "B576",
+      "Y644",
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BASEM": {
+    "coordinates": {
+      "lat": 36.843611,
+      "lon": 127.952778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BASEM",
+    "latDms": "365037N",
+    "lonDms": "1275710E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BEDAR": {
+    "coordinates": {
+      "lat": 31.900278,
+      "lon": 126.486111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BEDAR",
+    "latDms": "315401N",
+    "lonDms": "1262910E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BEDES": {
+    "coordinates": {
+      "lat": 36.151389,
+      "lon": 126.812222
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BEDES",
+    "latDms": "360905N",
+    "lonDms": "1264844E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BEDOM": {
+    "coordinates": {
+      "lat": 35.420278,
+      "lon": 129.298333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BEDOM",
+    "latDms": "352513N",
+    "lonDms": "1291754E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "Y572"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BELTU": {
+    "coordinates": {
+      "lat": 37.205,
+      "lon": 125.799722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BELTU",
+    "latDms": "371218N",
+    "lonDms": "1254759E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BEPKO": {
+    "coordinates": {
+      "lat": 33.652778,
+      "lon": 126.920556
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BEPKO",
+    "latDms": "333910N",
+    "lonDms": "1265514E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BESNA": {
+    "coordinates": {
+      "lat": 34.621667,
+      "lon": 129.130833
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BESNA",
+    "latDms": "343718N",
+    "lonDms": "1290751E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BIDRI": {
+    "coordinates": {
+      "lat": 36.335278,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BIDRI",
+    "latDms": "362007N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BIGOB": {
+    "coordinates": {
+      "lat": 36.723611,
+      "lon": 128.164444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BIGOB",
+    "latDms": "364325N",
+    "lonDms": "1280952E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BIKSI": {
+    "coordinates": {
+      "lat": 37.675556,
+      "lon": 128.584444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BIKSI",
+    "latDms": "374032N",
+    "lonDms": "1283504E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BILUM": {
+    "coordinates": {
+      "lat": 33.770278,
+      "lon": 127.0775
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BILUM",
+    "latDms": "334613N",
+    "lonDms": "1270439E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571",
+      "Z84"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BINIL": {
+    "coordinates": {
+      "lat": 37.396944,
+      "lon": 125.233056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BINIL",
+    "latDms": "372349N",
+    "lonDms": "1251359E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BITUX": {
+    "coordinates": {
+      "lat": 36.279167,
+      "lon": 128.03
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BITUX",
+    "latDms": "361645N",
+    "lonDms": "1280148E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BODOL": {
+    "coordinates": {
+      "lat": 37.189444,
+      "lon": 124.831667
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BODOL",
+    "latDms": "371122N",
+    "lonDms": "1244954E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BOGAN": {
+    "coordinates": {
+      "lat": 37.211389,
+      "lon": 126.47
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BOGAN",
+    "latDms": "371241N",
+    "lonDms": "1262812E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BONSO": {
+    "coordinates": {
+      "lat": 30.477778,
+      "lon": 125.1475
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BONSO",
+    "latDms": "302840N",
+    "lonDms": "1250851E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "B576",
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "BOPTA": {
+    "coordinates": {
+      "lat": 36.735,
+      "lon": 126.616111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BOPTA",
+    "latDms": "364406N",
+    "lonDms": "1263658E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BULGA": {
+    "coordinates": {
+      "lat": 35.935833,
+      "lon": 129.823333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BULGA",
+    "latDms": "355609N",
+    "lonDms": "1294924E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "G585",
+      "Y572",
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BULTI": {
+    "coordinates": {
+      "lat": 36.722778,
+      "lon": 126.825
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BULTI",
+    "latDms": "364322N",
+    "lonDms": "1264930E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "BUSKO": {
+    "coordinates": {
+      "lat": 37.675833,
+      "lon": 130.269444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "BUSKO",
+    "latDms": "374033N",
+    "lonDms": "1301610E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "DABIK": {
+    "coordinates": {
+      "lat": 36.295278,
+      "lon": 130.195278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DABIK",
+    "latDms": "361743N",
+    "lonDms": "1301143E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "Y572"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "DALPO": {
+    "coordinates": {
+      "lat": 36.976389,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DALPO",
+    "latDms": "365835N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "DALSU": {
+    "coordinates": {
+      "lat": 35.125278,
+      "lon": 126.701667
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DALSU",
+    "latDms": "350731N",
+    "lonDms": "1264206E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "DANPA": {
+    "coordinates": {
+      "lat": 35.51,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DANPA",
+    "latDms": "353036N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "DANTI": {
+    "coordinates": {
+      "lat": 37.301667,
+      "lon": 124.658056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DANTI",
+    "latDms": "371806N",
+    "lonDms": "1243929E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "G597"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "DOMKO": {
+    "coordinates": {
+      "lat": 32.48,
+      "lon": 125.983056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DOMKO",
+    "latDms": "322848N",
+    "lonDms": "1255859E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "DOTOL": {
+    "coordinates": {
+      "lat": 34.254167,
+      "lon": 126.610278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "DOTOL",
+    "latDms": "341515N",
+    "lonDms": "1263637E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "EGOBA": {
+    "coordinates": {
+      "lat": 37.4875,
+      "lon": 127.379444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "EGOBA",
+    "latDms": "372915N",
+    "lonDms": "1272246E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "W45",
+      "Y644",
+      "Y697",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ELAPI": {
+    "coordinates": {
+      "lat": 36.337222,
+      "lon": 128.8475
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ELAPI",
+    "latDms": "362014N",
+    "lonDms": "1285051E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ELGEP": {
+    "coordinates": {
+      "lat": 31.781389,
+      "lon": 125.938056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ELGEP",
+    "latDms": "314653N",
+    "lonDms": "1255617E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y590",
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ELPOS": {
+    "coordinates": {
+      "lat": 35.902778,
+      "lon": 126.785278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ELPOS",
+    "latDms": "355410N",
+    "lonDms": "1264707E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "V543",
+      "Y677",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ENGOT": {
+    "coordinates": {
+      "lat": 34.809444,
+      "lon": 128.497778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ENGOT",
+    "latDms": "344834N",
+    "lonDms": "1282952E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ENSAL": {
+    "coordinates": {
+      "lat": 36.931667,
+      "lon": 127.796389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ENSAL",
+    "latDms": "365554N",
+    "lonDms": "1274747E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ENSUM": {
+    "coordinates": {
+      "lat": 32.217222,
+      "lon": 124.776389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ENSUM",
+    "latDms": "321302N",
+    "lonDms": "1244635E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "ENTEL": {
+    "coordinates": {
+      "lat": 36.386389,
+      "lon": 126.951389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ENTEL",
+    "latDms": "362311N",
+    "lonDms": "1265705E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "ESNEG": {
+    "coordinates": {
+      "lat": 37.170556,
+      "lon": 129.8475
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ESNEG",
+    "latDms": "371014N",
+    "lonDms": "1295051E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "GOGET": {
+    "coordinates": {
+      "lat": 37.411667,
+      "lon": 126.51
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GOGET",
+    "latDms": "372442N",
+    "lonDms": "1263036E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "W45",
+      "Y697",
+      "Z52"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "GONAV": {
+    "coordinates": {
+      "lat": 37.18,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GONAV",
+    "latDms": "371048N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "GONAX": {
+    "coordinates": {
+      "lat": 36.386389,
+      "lon": 126.837778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GONAX",
+    "latDms": "362311N",
+    "lonDms": "1265016E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "GOSBO": {
+    "coordinates": {
+      "lat": 34.254722,
+      "lon": 127.792778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GOSBO",
+    "latDms": "341517N",
+    "lonDms": "1274734E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "A582"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "GUKDO": {
+    "coordinates": {
+      "lat": 37.019722,
+      "lon": 127.639722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GUKDO",
+    "latDms": "370111N",
+    "lonDms": "1273823E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "GUKSU": {
+    "coordinates": {
+      "lat": 33.880833,
+      "lon": 126.7325
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GUKSU",
+    "latDms": "335251N",
+    "lonDms": "1264357E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "GUNKU": {
+    "coordinates": {
+      "lat": 36.570556,
+      "lon": 126.996944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "GUNKU",
+    "latDms": "363414N",
+    "lonDms": "1265949E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "IGDOK": {
+    "coordinates": {
+      "lat": 35.517778,
+      "lon": 127.818611
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "IGDOK",
+    "latDms": "353104N",
+    "lonDms": "1274907E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y657"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "IGRAS": {
+    "coordinates": {
+      "lat": 37.312778,
+      "lon": 132.736389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "IGRAS",
+    "latDms": "371846N",
+    "lonDms": "1324411E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "IKEDO": {
+    "coordinates": {
+      "lat": 31.720556,
+      "lon": 125.663333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "IKEDO",
+    "latDms": "314314N",
+    "lonDms": "1253948E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "B576",
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "INVOK": {
+    "coordinates": {
+      "lat": 34.788611,
+      "lon": 129.323056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "INVOK",
+    "latDms": "344719N",
+    "lonDms": "1291923E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "B576",
+      "Z91"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "IPDAS": {
+    "coordinates": {
+      "lat": 34.254167,
+      "lon": 126.716944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "IPDAS",
+    "latDms": "341515N",
+    "lonDms": "1264301E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "KAKSO": {
+    "coordinates": {
+      "lat": 37.129167,
+      "lon": 127.443611
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KAKSO",
+    "latDms": "370745N",
+    "lonDms": "1272637E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "KALEK": {
+    "coordinates": {
+      "lat": 35.208889,
+      "lon": 129.884722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KALEK",
+    "latDms": "351232N",
+    "lonDms": "1295305E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Z84"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KALMA": {
+    "coordinates": {
+      "lat": 37.3125,
+      "lon": 127.1125
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KALMA",
+    "latDms": "371845N",
+    "lonDms": "1270645E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "KALOD": {
+    "coordinates": {
+      "lat": 35.503333,
+      "lon": 128.773889
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KALOD",
+    "latDms": "353012N",
+    "lonDms": "1284626E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KAMIT": {
+    "coordinates": {
+      "lat": 34.253889,
+      "lon": 126.771667
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KAMIT",
+    "latDms": "341514N",
+    "lonDms": "1264618E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KANKA": {
+    "coordinates": {
+      "lat": 31.531944,
+      "lon": 125.584444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KANKA",
+    "latDms": "313155N",
+    "lonDms": "1253504E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "B576"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KANSU": {
+    "coordinates": {
+      "lat": 38.633333,
+      "lon": 132.475
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KANSU",
+    "latDms": "383800N",
+    "lonDms": "1322830E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Y233",
+      "Y437",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KARBU": {
+    "coordinates": {
+      "lat": 37.533056,
+      "lon": 127.664444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KARBU",
+    "latDms": "373159N",
+    "lonDms": "1273952E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "KIDOS": {
+    "coordinates": {
+      "lat": 33.841111,
+      "lon": 126.567222
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "KIDOS",
+    "latDms": "335028N",
+    "lonDms": "1263402E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "LAMEN": {
+    "coordinates": {
+      "lat": 31.61,
+      "lon": 124.0
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LAMEN",
+    "latDms": "313636N",
+    "lonDms": "1240000E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "LANAT": {
+    "coordinates": {
+      "lat": 36.373333,
+      "lon": 131.428333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LANAT",
+    "latDms": "362224N",
+    "lonDms": "1312542E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "LAPAL": {
+    "coordinates": {
+      "lat": 35.903611,
+      "lon": 129.081111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LAPAL",
+    "latDms": "355413N",
+    "lonDms": "1290452E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "V543",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "LESBU": {
+    "coordinates": {
+      "lat": 37.687778,
+      "lon": 129.684444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LESBU",
+    "latDms": "374116N",
+    "lonDms": "1294104E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Y437",
+      "Z63"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "LIMDI": {
+    "coordinates": {
+      "lat": 33.553611,
+      "lon": 125.831389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LIMDI",
+    "latDms": "333313N",
+    "lonDms": "1254953E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "LINTA": {
+    "coordinates": {
+      "lat": 35.521111,
+      "lon": 126.855278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LINTA",
+    "latDms": "353116N",
+    "lonDms": "1265119E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "LOSNI": {
+    "coordinates": {
+      "lat": 33.554167,
+      "lon": 126.698056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LOSNI",
+    "latDms": "333315N",
+    "lonDms": "1264153E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "LOSTO": {
+    "coordinates": {
+      "lat": 36.337778,
+      "lon": 129.43
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "LOSTO",
+    "latDms": "362016N",
+    "lonDms": "1292548E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MAKDU": {
+    "coordinates": {
+      "lat": 36.453333,
+      "lon": 127.819167
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MAKDU",
+    "latDms": "362712N",
+    "lonDms": "1274909E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MAKET": {
+    "coordinates": {
+      "lat": 33.914444,
+      "lon": 127.331389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MAKET",
+    "latDms": "335452N",
+    "lonDms": "1271953E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "A582"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "MAKSA": {
+    "coordinates": {
+      "lat": 35.503056,
+      "lon": 126.906111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MAKSA",
+    "latDms": "353011N",
+    "lonDms": "1265422E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MALSO": {
+    "coordinates": {
+      "lat": 37.911111,
+      "lon": 131.817778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MALSO",
+    "latDms": "375440N",
+    "lonDms": "1314904E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "MANGI": {
+    "coordinates": {
+      "lat": 35.503056,
+      "lon": 126.742222
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MANGI",
+    "latDms": "353011N",
+    "lonDms": "1264432E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MANOL": {
+    "coordinates": {
+      "lat": 33.608056,
+      "lon": 126.920556
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MANOL",
+    "latDms": "333629N",
+    "lonDms": "1265514E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "A582"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyby",
+    "type": "waypoint"
+  },
+  "MASTA": {
+    "coordinates": {
+      "lat": 35.479722,
+      "lon": 128.561111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MASTA",
+    "latDms": "352847N",
+    "lonDms": "1283340E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "W45",
+      "Y781",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MEKIL": {
+    "coordinates": {
+      "lat": 36.556111,
+      "lon": 126.831389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MEKIL",
+    "latDms": "363322N",
+    "lonDms": "1264953E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MELES": {
+    "coordinates": {
+      "lat": 35.880833,
+      "lon": 127.261667
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MELES",
+    "latDms": "355251N",
+    "lonDms": "1271542E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "V543",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "MONSI": {
+    "coordinates": {
+      "lat": 37.213056,
+      "lon": 126.8375
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MONSI",
+    "latDms": "371247N",
+    "lonDms": "1265015E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "W45",
+      "Y644",
+      "Y697",
+      "Z52"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "MOXID": {
+    "coordinates": {
+      "lat": 36.386389,
+      "lon": 126.733056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MOXID",
+    "latDms": "362311N",
+    "lonDms": "1264359E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "MUGUS": {
+    "coordinates": {
+      "lat": 30.001667,
+      "lon": 124.953333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "MUGUS",
+    "latDms": "300006N",
+    "lonDms": "1245712E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "B576"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "NIRAT": {
+    "coordinates": {
+      "lat": 32.065,
+      "lon": 126.058056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NIRAT",
+    "latDms": "320354N",
+    "lonDms": "1260329E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y590",
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "NISAV": {
+    "coordinates": {
+      "lat": 34.255278,
+      "lon": 127.976389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NISAV",
+    "latDms": "341519N",
+    "lonDms": "1275835E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "NOBUT": {
+    "coordinates": {
+      "lat": 37.120833,
+      "lon": 129.3325
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NOBUT",
+    "latDms": "370715N",
+    "lonDms": "1291957E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "NOGON": {
+    "coordinates": {
+      "lat": 37.380556,
+      "lon": 124.418056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NOGON",
+    "latDms": "372250N",
+    "lonDms": "1242505E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "NONOS": {
+    "coordinates": {
+      "lat": 36.679444,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NONOS",
+    "latDms": "364046N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644",
+      "Z52"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "NOPIK": {
+    "coordinates": {
+      "lat": 37.403333,
+      "lon": 125.651389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NOPIK",
+    "latDms": "372412N",
+    "lonDms": "1253905E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "NULDI": {
+    "coordinates": {
+      "lat": 34.420556,
+      "lon": 126.6275
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "NULDI",
+    "latDms": "342514N",
+    "lonDms": "1263739E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "OLBIM": {
+    "coordinates": {
+      "lat": 37.236389,
+      "lon": 124.130833
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OLBIM",
+    "latDms": "371411N",
+    "lonDms": "1240751E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "OLMEN": {
+    "coordinates": {
+      "lat": 36.736944,
+      "lon": 126.991111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OLMEN",
+    "latDms": "364413N",
+    "lonDms": "1265928E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y711",
+      "Y722",
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "OLMUD": {
+    "coordinates": {
+      "lat": 35.040278,
+      "lon": 128.821111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OLMUD",
+    "latDms": "350225N",
+    "lonDms": "1284916E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "OMKIM": {
+    "coordinates": {
+      "lat": 33.222222,
+      "lon": 126.687222
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OMKIM",
+    "latDms": "331320N",
+    "lonDms": "1264114E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437",
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "OMOTU": {
+    "coordinates": {
+      "lat": 35.009167,
+      "lon": 128.839444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OMOTU",
+    "latDms": "350033N",
+    "lonDms": "1285022E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ONATA": {
+    "coordinates": {
+      "lat": 38.475556,
+      "lon": 132.100556
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ONATA",
+    "latDms": "382832N",
+    "lonDms": "1320602E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y233"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "ONIKU": {
+    "coordinates": {
+      "lat": 32.195,
+      "lon": 126.654722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "ONIKU",
+    "latDms": "321142N",
+    "lonDms": "1263917E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "OPEDA": {
+    "coordinates": {
+      "lat": 35.863611,
+      "lon": 127.614444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OPEDA",
+    "latDms": "355149N",
+    "lonDms": "1273652E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "V543",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "OSPOT": {
+    "coordinates": {
+      "lat": 36.838333,
+      "lon": 127.348611
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OSPOT",
+    "latDms": "365018N",
+    "lonDms": "1272055E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "OSVOM": {
+    "coordinates": {
+      "lat": 36.645556,
+      "lon": 129.391944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "OSVOM",
+    "latDms": "363844N",
+    "lonDms": "1292331E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Y722"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "PALDU": {
+    "coordinates": {
+      "lat": 37.970278,
+      "lon": 132.606944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PALDU",
+    "latDms": "375813N",
+    "lonDms": "1323625E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "PALSA": {
+    "coordinates": {
+      "lat": 34.025278,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PALSA",
+    "latDms": "340131N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "PANSI": {
+    "coordinates": {
+      "lat": 33.003889,
+      "lon": 126.206944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PANSI",
+    "latDms": "330014N",
+    "lonDms": "1261225E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y697",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "PAPLU": {
+    "coordinates": {
+      "lat": 33.578056,
+      "lon": 127.060278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PAPLU",
+    "latDms": "333441N",
+    "lonDms": "1270337E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437",
+      "Z84"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "PEBRI": {
+    "coordinates": {
+      "lat": 36.386389,
+      "lon": 127.003611
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PEBRI",
+    "latDms": "362311N",
+    "lonDms": "1270013E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "PILIT": {
+    "coordinates": {
+      "lat": 37.441944,
+      "lon": 129.291944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PILIT",
+    "latDms": "372631N",
+    "lonDms": "1291731E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697",
+      "Z63"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "POLEG": {
+    "coordinates": {
+      "lat": 37.213611,
+      "lon": 126.993056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "POLEG",
+    "latDms": "371249N",
+    "lonDms": "1265935E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "B467",
+      "Y644",
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "PONIK": {
+    "coordinates": {
+      "lat": 32.005833,
+      "lon": 125.783056
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "PONIK",
+    "latDms": "320021N",
+    "lonDms": "1254659E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "B576",
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "POSAN": {
+    "coordinates": {
+      "lat": 36.9375,
+      "lon": 127.221111
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "POSAN",
+    "latDms": "365615N",
+    "lonDms": "1271316E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "POVEM": {
+    "coordinates": {
+      "lat": 34.923056,
+      "lon": 128.904444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "POVEM",
+    "latDms": "345523N",
+    "lonDms": "1285416E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "POVOR": {
+    "coordinates": {
+      "lat": 34.255556,
+      "lon": 127.733333
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "POVOR",
+    "latDms": "341520N",
+    "lonDms": "1274400E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "REBIT": {
+    "coordinates": {
+      "lat": 37.200833,
+      "lon": 125.486944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "REBIT",
+    "latDms": "371203N",
+    "lonDms": "1252913E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "REMOS": {
+    "coordinates": {
+      "lat": 33.434722,
+      "lon": 126.391389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "REMOS",
+    "latDms": "332605N",
+    "lonDms": "1262329E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y677",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "RILRO": {
+    "coordinates": {
+      "lat": 37.175833,
+      "lon": 124.245
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "RILRO",
+    "latDms": "371033N",
+    "lonDms": "1241442E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "RIMPO": {
+    "coordinates": {
+      "lat": 35.1275,
+      "lon": 127.583889
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "RIMPO",
+    "latDms": "350739N",
+    "lonDms": "1273502E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "V543"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyby",
+    "type": "waypoint"
+  },
+  "RINBO": {
+    "coordinates": {
+      "lat": 35.897778,
+      "lon": 126.896944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "RINBO",
+    "latDms": "355352N",
+    "lonDms": "1265349E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "V543",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "RUGMA": {
+    "coordinates": {
+      "lat": 32.503333,
+      "lon": 126.964722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "RUGMA",
+    "latDms": "323012N",
+    "lonDms": "1265753E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "Y571",
+      "Z84"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SABET": {
+    "coordinates": {
+      "lat": 37.641389,
+      "lon": 132.671944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SABET",
+    "latDms": "373829N",
+    "lonDms": "1324019E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "L512",
+      "Z56"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "SADLI": {
+    "coordinates": {
+      "lat": 31.83,
+      "lon": 125.0
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SADLI",
+    "latDms": "314948N",
+    "lonDms": "1250000E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y590"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SAMDO": {
+    "coordinates": {
+      "lat": 33.584167,
+      "lon": 128.315833
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SAMDO",
+    "latDms": "333503N",
+    "lonDms": "1281857E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y590",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SAMLO": {
+    "coordinates": {
+      "lat": 32.539722,
+      "lon": 126.26
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SAMLO",
+    "latDms": "323223N",
+    "lonDms": "1261536E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "SAMUL": {
+    "coordinates": {
+      "lat": 35.126667,
+      "lon": 126.865
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SAMUL",
+    "latDms": "350736N",
+    "lonDms": "1265154E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697",
+      "Y711"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "SAPDI": {
+    "coordinates": {
+      "lat": 35.126944,
+      "lon": 128.497778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SAPDI",
+    "latDms": "350737N",
+    "lonDms": "1282952E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SAPRA": {
+    "coordinates": {
+      "lat": 35.823889,
+      "lon": 130.723611
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SAPRA",
+    "latDms": "354926N",
+    "lonDms": "1304325E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G585",
+      "Y685"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SARAM": {
+    "coordinates": {
+      "lat": 35.126667,
+      "lon": 128.529722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SARAM",
+    "latDms": "350736N",
+    "lonDms": "1283147E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "W45",
+      "Y253",
+      "Z81"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "SELPA": {
+    "coordinates": {
+      "lat": 37.920833,
+      "lon": 130.819722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SELPA",
+    "latDms": "375515N",
+    "lonDms": "1304911E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y233"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "SOSDO": {
+    "coordinates": {
+      "lat": 33.003333,
+      "lon": 126.459722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "SOSDO",
+    "latDms": "330012N",
+    "lonDms": "1262735E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y437",
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "TAMNA": {
+    "coordinates": {
+      "lat": 33.470833,
+      "lon": 127.331389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TAMNA",
+    "latDms": "332815N",
+    "lonDms": "1271953E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y590",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "TEBEX": {
+    "coordinates": {
+      "lat": 36.561389,
+      "lon": 127.991389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TEBEX",
+    "latDms": "363341N",
+    "lonDms": "1275929E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y782"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "TEDAN": {
+    "coordinates": {
+      "lat": 35.128889,
+      "lon": 127.314444
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TEDAN",
+    "latDms": "350744N",
+    "lonDms": "1271852E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y253",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "TENAS": {
+    "coordinates": {
+      "lat": 37.638889,
+      "lon": 131.574167
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TENAS",
+    "latDms": "373820N",
+    "lonDms": "1313427E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "A595",
+      "L512",
+      "Y437",
+      "Y572"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "TESIM": {
+    "coordinates": {
+      "lat": 31.590556,
+      "lon": 125.857778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TESIM",
+    "latDms": "313526N",
+    "lonDms": "1255128E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y711",
+      "Z86"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "TOLIS": {
+    "coordinates": {
+      "lat": 33.841667,
+      "lon": 124.414722
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TOLIS",
+    "latDms": "335030N",
+    "lonDms": "1242453E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y644",
+      "Y677"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "open-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyby",
+    "type": "waypoint"
+  },
+  "TOPAX": {
+    "coordinates": {
+      "lat": 34.765278,
+      "lon": 128.497778
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TOPAX",
+    "latDms": "344555N",
+    "lonDms": "1282952E",
+    "routeTypes": [
+      "ATS"
+    ],
+    "routes": [
+      "A582",
+      "W45"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1"
+    ],
+    "symbolType": "conventional-intersection-flyover",
+    "type": "waypoint"
+  },
+  "TORUS": {
+    "coordinates": {
+      "lat": 37.606944,
+      "lon": 128.135278
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TORUS",
+    "latDms": "373625N",
+    "lonDms": "1280807E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "G597",
+      "Y697"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "TOSAN": {
+    "coordinates": {
+      "lat": 33.003333,
+      "lon": 126.771944
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "TOSAN",
+    "latDms": "330012N",
+    "lonDms": "1264619E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A582",
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "UGOVI": {
+    "coordinates": {
+      "lat": 37.684722,
+      "lon": 129.8475
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "UGOVI",
+    "latDms": "374105N",
+    "lonDms": "1295051E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "A595",
+      "Y437"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "UPGOS": {
+    "coordinates": {
+      "lat": 33.959167,
+      "lon": 127.331389
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "UPGOS",
+    "latDms": "335733N",
+    "lonDms": "1271953E",
+    "routeTypes": [
+      "RNAV"
+    ],
+    "routes": [
+      "Y571"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  },
+  "VASLI": {
+    "coordinates": {
+      "lat": 36.714444,
+      "lon": 127.500833
+    },
+    "cycle": "AIRAC 2026-04-15",
+    "id": "VASLI",
+    "latDms": "364252N",
+    "lonDms": "1273003E",
+    "routeTypes": [
+      "ATS",
+      "RNAV"
+    ],
+    "routes": [
+      "Y781"
+    ],
+    "source": null,
+    "sourceMarkerTypes": [
+      "filled-triangle"
+    ],
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "symbolType": "rnav-waypoint-flyover",
+    "type": "waypoint"
+  }
+}

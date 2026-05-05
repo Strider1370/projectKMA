@@ -1,0 +1,1286 @@
+{
+  "RKJB": {
+    "airport": "RKJB",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 17.61,
+        "fix": "DALSU",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 25.05,
+        "fix": "SAMUL",
+        "routes": [
+          "Y253",
+          "Y697",
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 35.42,
+        "fix": "MANGI",
+        "routes": [
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 36.34,
+        "fix": "NULDI",
+        "routes": [
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 39.35,
+        "fix": "LINTA",
+        "routes": [
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 40.03,
+        "fix": "MAKSA",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 45.67,
+        "fix": "DOTOL",
+        "routes": [
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 46.52,
+        "fix": "TEDAN",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKJJ": {
+    "airport": "RKJJ",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 2.93,
+        "fix": "SAMUL",
+        "routes": [
+          "Y253",
+          "Y697",
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 5.1,
+        "fix": "DALSU",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 23.02,
+        "fix": "MANGI",
+        "routes": [
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 23.34,
+        "fix": "MAKSA",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 24.02,
+        "fix": "LINTA",
+        "routes": [
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 25.0,
+        "fix": "TEDAN",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 38.23,
+        "fix": "RIMPO",
+        "routes": [
+          "V543"
+        ]
+      },
+      {
+        "distanceNm": 38.51,
+        "fix": "ANUBA",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKJK": {
+    "airport": "RKJK",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 8.23,
+        "fix": "ELPOS",
+        "routes": [
+          "V543",
+          "Y677",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 13.67,
+        "fix": "RINBO",
+        "routes": [
+          "V543",
+          "Y677"
+        ]
+      },
+      {
+        "distanceNm": 16.21,
+        "fix": "ATASO",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 17.66,
+        "fix": "BEDES",
+        "routes": [
+          "Y697",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 24.84,
+        "fix": "MANGI",
+        "routes": [
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 25.77,
+        "fix": "LINTA",
+        "routes": [
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 27.91,
+        "fix": "MAKSA",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 29.53,
+        "fix": "MOXID",
+        "routes": [
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKJY": {
+    "airport": "RKJY",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 17.19,
+        "fix": "RIMPO",
+        "routes": [
+          "V543"
+        ]
+      },
+      {
+        "distanceNm": 17.28,
+        "fix": "ANUBA",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 22.72,
+        "fix": "TEDAN",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 35.71,
+        "fix": "POVOR",
+        "routes": [
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 36.35,
+        "fix": "GOSBO",
+        "routes": [
+          "A582"
+        ]
+      },
+      {
+        "distanceNm": 39.5,
+        "fix": "NISAV",
+        "routes": [
+          "Y437"
+        ]
+      },
+      {
+        "distanceNm": 40.7,
+        "fix": "SAMUL",
+        "routes": [
+          "Y253",
+          "Y697",
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 41.75,
+        "fix": "IGDOK",
+        "routes": [
+          "Y657"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKNW": {
+    "airport": "RKNW",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 13.18,
+        "fix": "TORUS",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 15.22,
+        "fix": "KARBU",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 27.84,
+        "fix": "EGOBA",
+        "routes": [
+          "G597",
+          "W45",
+          "Y644",
+          "Y697",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 29.37,
+        "fix": "GUKDO",
+        "routes": [
+          "G585",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 30.83,
+        "fix": "KAKSO",
+        "routes": [
+          "G585",
+          "Y685",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 31.34,
+        "fix": "ENSAL",
+        "routes": [
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 32.99,
+        "fix": "BIKSI",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 35.64,
+        "fix": "BASEM",
+        "routes": [
+          "G585",
+          "Y685",
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKNY": {
+    "airport": "RKNY",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 23.51,
+        "fix": "BIKSI",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 37.22,
+        "fix": "TORUS",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 47.51,
+        "fix": "PILIT",
+        "routes": [
+          "G597",
+          "Y697",
+          "Z63"
+        ]
+      },
+      {
+        "distanceNm": 53.09,
+        "fix": "LESBU",
+        "routes": [
+          "A595",
+          "Y437",
+          "Z63"
+        ]
+      },
+      {
+        "distanceNm": 57.26,
+        "fix": "KARBU",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 60.25,
+        "fix": "UGOVI",
+        "routes": [
+          "A595",
+          "Y437"
+        ]
+      },
+      {
+        "distanceNm": 64.69,
+        "fix": "NOBUT",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 70.24,
+        "fix": "EGOBA",
+        "routes": [
+          "G597",
+          "W45",
+          "Y644",
+          "Y697",
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKPC": {
+    "airport": "RKPC",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 6.82,
+        "fix": "REMOS",
+        "routes": [
+          "Y677",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 10.6,
+        "fix": "LOSNI",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 19.86,
+        "fix": "OMKIM",
+        "routes": [
+          "Y437",
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 20.2,
+        "fix": "KIDOS",
+        "routes": [
+          "Y697",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 22.19,
+        "fix": "MANOL",
+        "routes": [
+          "A582"
+        ]
+      },
+      {
+        "distanceNm": 23.04,
+        "fix": "BEPKO",
+        "routes": [
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 25.26,
+        "fix": "GUKSU",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 28.68,
+        "fix": "PAPLU",
+        "routes": [
+          "Y437",
+          "Z84"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKPD": {
+    "airport": "RKPD",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 9.31,
+        "fix": "LOSNI",
+        "routes": [
+          "Y711"
+        ]
+      },
+      {
+        "distanceNm": 10.72,
+        "fix": "OMKIM",
+        "routes": [
+          "Y437",
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 16.21,
+        "fix": "REMOS",
+        "routes": [
+          "Y677",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 16.3,
+        "fix": "MANOL",
+        "routes": [
+          "A582"
+        ]
+      },
+      {
+        "distanceNm": 18.44,
+        "fix": "BEPKO",
+        "routes": [
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 20.47,
+        "fix": "PAPLU",
+        "routes": [
+          "Y437",
+          "Z84"
+        ]
+      },
+      {
+        "distanceNm": 23.98,
+        "fix": "TOSAN",
+        "routes": [
+          "A582",
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 26.96,
+        "fix": "SOSDO",
+        "routes": [
+          "Y437",
+          "Y711",
+          "Z86"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKPK": {
+    "airport": "RKPK",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 8.83,
+        "fix": "ANKUS",
+        "routes": [
+          "Y253",
+          "Y697",
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 10.15,
+        "fix": "OLMUD",
+        "routes": [
+          "Y571"
+        ]
+      },
+      {
+        "distanceNm": 11.32,
+        "fix": "OMOTU",
+        "routes": [
+          "A582",
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 15.49,
+        "fix": "POVEM",
+        "routes": [
+          "Y437"
+        ]
+      },
+      {
+        "distanceNm": 17.64,
+        "fix": "APARU",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 20.3,
+        "fix": "SARAM",
+        "routes": [
+          "W45",
+          "Y253",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 21.04,
+        "fix": "KALOD",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 21.85,
+        "fix": "SAPDI",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKPS": {
+    "airport": "RKPS",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 21.05,
+        "fix": "SAPDI",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 22.61,
+        "fix": "SARAM",
+        "routes": [
+          "W45",
+          "Y253",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 23.8,
+        "fix": "ANUBA",
+        "routes": [
+          "Y253",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 24.08,
+        "fix": "RIMPO",
+        "routes": [
+          "V543"
+        ]
+      },
+      {
+        "distanceNm": 26.84,
+        "fix": "ENGOT",
+        "routes": [
+          "Y571",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 28.58,
+        "fix": "TOPAX",
+        "routes": [
+          "A582",
+          "W45"
+        ]
+      },
+      {
+        "distanceNm": 28.6,
+        "fix": "IGDOK",
+        "routes": [
+          "Y657"
+        ]
+      },
+      {
+        "distanceNm": 33.57,
+        "fix": "MASTA",
+        "routes": [
+          "W45",
+          "Y781",
+          "Z81"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKPU": {
+    "airport": "RKPU",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 10.72,
+        "fix": "BEDOM",
+        "routes": [
+          "A582",
+          "Y572"
+        ]
+      },
+      {
+        "distanceNm": 14.43,
+        "fix": "APARU",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 22.82,
+        "fix": "LAPAL",
+        "routes": [
+          "V543",
+          "Y677"
+        ]
+      },
+      {
+        "distanceNm": 28.75,
+        "fix": "KALOD",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 30.83,
+        "fix": "BULGA",
+        "routes": [
+          "A582",
+          "G585",
+          "Y572",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 34.83,
+        "fix": "KALEK",
+        "routes": [
+          "Z84"
+        ]
+      },
+      {
+        "distanceNm": 39.23,
+        "fix": "MASTA",
+        "routes": [
+          "W45",
+          "Y781",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 40.0,
+        "fix": "ANKUS",
+        "routes": [
+          "Y253",
+          "Y697",
+          "Y781"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKSI": {
+    "airport": "RKSI",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 4.41,
+        "fix": "GOGET",
+        "routes": [
+          "G597",
+          "W45",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 15.0,
+        "fix": "BOGAN",
+        "routes": [
+          "Y644"
+        ]
+      },
+      {
+        "distanceNm": 24.06,
+        "fix": "MONSI",
+        "routes": [
+          "W45",
+          "Y644",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 30.24,
+        "fix": "POLEG",
+        "routes": [
+          "B467",
+          "Y644",
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 33.25,
+        "fix": "KALMA",
+        "routes": [
+          "G585",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 34.22,
+        "fix": "BELTU",
+        "routes": [
+          "Y644"
+        ]
+      },
+      {
+        "distanceNm": 37.79,
+        "fix": "NOPIK",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 44.34,
+        "fix": "BOPTA",
+        "routes": [
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKSM": {
+    "airport": "RKSM",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 7.94,
+        "fix": "KALMA",
+        "routes": [
+          "G585",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 12.97,
+        "fix": "EGOBA",
+        "routes": [
+          "G597",
+          "W45",
+          "Y644",
+          "Y697",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 15.01,
+        "fix": "POLEG",
+        "routes": [
+          "B467",
+          "Y644",
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 19.14,
+        "fix": "MONSI",
+        "routes": [
+          "W45",
+          "Y644",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 24.67,
+        "fix": "KAKSO",
+        "routes": [
+          "G585",
+          "Y685",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 26.81,
+        "fix": "KARBU",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 28.81,
+        "fix": "GOGET",
+        "routes": [
+          "G597",
+          "W45",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 30.89,
+        "fix": "POSAN",
+        "routes": [
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKSS": {
+    "airport": "RKSS",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 16.02,
+        "fix": "GOGET",
+        "routes": [
+          "G597",
+          "W45",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 20.87,
+        "fix": "MONSI",
+        "routes": [
+          "W45",
+          "Y644",
+          "Y697",
+          "Z52"
+        ]
+      },
+      {
+        "distanceNm": 21.3,
+        "fix": "KALMA",
+        "routes": [
+          "G585",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 22.85,
+        "fix": "POLEG",
+        "routes": [
+          "B467",
+          "Y644",
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 25.86,
+        "fix": "BOGAN",
+        "routes": [
+          "Y644"
+        ]
+      },
+      {
+        "distanceNm": 28.36,
+        "fix": "EGOBA",
+        "routes": [
+          "G597",
+          "W45",
+          "Y644",
+          "Y697",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 40.45,
+        "fix": "KAKSO",
+        "routes": [
+          "G585",
+          "Y685",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 41.63,
+        "fix": "KARBU",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKTH": {
+    "airport": "RKTH",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 17.25,
+        "fix": "LAPAL",
+        "routes": [
+          "V543",
+          "Y677"
+        ]
+      },
+      {
+        "distanceNm": 19.83,
+        "fix": "BULGA",
+        "routes": [
+          "A582",
+          "G585",
+          "Y572",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 21.01,
+        "fix": "LOSTO",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 34.6,
+        "fix": "BEDOM",
+        "routes": [
+          "A582",
+          "Y572"
+        ]
+      },
+      {
+        "distanceNm": 34.8,
+        "fix": "ELAPI",
+        "routes": [
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 36.87,
+        "fix": "APARU",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 39.51,
+        "fix": "OSVOM",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 41.86,
+        "fix": "DABIK",
+        "routes": [
+          "A582",
+          "Y572"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKTL": {
+    "airport": "RKTL",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 8.58,
+        "fix": "OSVOM",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 21.55,
+        "fix": "NOBUT",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 26.42,
+        "fix": "LOSTO",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 30.01,
+        "fix": "ESNEG",
+        "routes": [
+          "G597",
+          "Y697"
+        ]
+      },
+      {
+        "distanceNm": 39.69,
+        "fix": "ELAPI",
+        "routes": [
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 40.74,
+        "fix": "PILIT",
+        "routes": [
+          "G597",
+          "Y697",
+          "Z63"
+        ]
+      },
+      {
+        "distanceNm": 45.7,
+        "fix": "DABIK",
+        "routes": [
+          "A582",
+          "Y572"
+        ]
+      },
+      {
+        "distanceNm": 53.45,
+        "fix": "BULGA",
+        "routes": [
+          "A582",
+          "G585",
+          "Y572",
+          "Y685"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKTN": {
+    "airport": "RKTN",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 20.63,
+        "fix": "LAPAL",
+        "routes": [
+          "V543",
+          "Y677"
+        ]
+      },
+      {
+        "distanceNm": 24.16,
+        "fix": "KALOD",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 25.33,
+        "fix": "MASTA",
+        "routes": [
+          "W45",
+          "Y781",
+          "Z81"
+        ]
+      },
+      {
+        "distanceNm": 28.15,
+        "fix": "ELAPI",
+        "routes": [
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 37.94,
+        "fix": "APARU",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      },
+      {
+        "distanceNm": 38.2,
+        "fix": "BITUX",
+        "routes": [
+          "Y781",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 42.3,
+        "fix": "BEDOM",
+        "routes": [
+          "A582",
+          "Y572"
+        ]
+      },
+      {
+        "distanceNm": 45.98,
+        "fix": "LOSTO",
+        "routes": [
+          "Y697",
+          "Y722"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  },
+  "RKTU": {
+    "airport": "RKTU",
+    "method": "nearest-waypoint-placeholder",
+    "nearbyFixes": [
+      {
+        "distanceNm": 0.07,
+        "fix": "VASLI",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 10.37,
+        "fix": "OSPOT",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 18.91,
+        "fix": "POSAN",
+        "routes": [
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 19.26,
+        "fix": "ENSAL",
+        "routes": [
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 19.45,
+        "fix": "GUKDO",
+        "routes": [
+          "G585",
+          "Y685"
+        ]
+      },
+      {
+        "distanceNm": 22.01,
+        "fix": "MAKDU",
+        "routes": [
+          "Y781"
+        ]
+      },
+      {
+        "distanceNm": 23.08,
+        "fix": "BASEM",
+        "routes": [
+          "G585",
+          "Y685",
+          "Y782"
+        ]
+      },
+      {
+        "distanceNm": 24.54,
+        "fix": "OLMEN",
+        "routes": [
+          "Y711",
+          "Y722",
+          "Y782"
+        ]
+      }
+    ],
+    "notes": "Temporary enroute access candidates until SID/STAR transition fixes are modeled."
+  }
+}

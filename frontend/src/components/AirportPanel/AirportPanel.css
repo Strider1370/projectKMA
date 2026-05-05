@@ -1,0 +1,296 @@
+.airport-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 100%;
+  background: rgba(15, 23, 42, 0.97);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: -8px 0 32px rgba(0, 0, 0, 0.5);
+  color: #e2e8f0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 13px;
+  overflow: hidden;
+}
+
+/* ── Header ── */
+.airport-panel-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 14px 16px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.04);
+  flex-shrink: 0;
+}
+
+.airport-panel-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.airport-panel-icao {
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  color: #93c5fd;
+  font-family: 'Consolas', 'Menlo', monospace;
+}
+
+.airport-panel-name {
+  font-size: 12px;
+  color: #94a3b8;
+}
+
+.airport-panel-close {
+  background: none;
+  border: none;
+  color: #64748b;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  line-height: 1;
+  transition: color 0.15s, background 0.15s;
+}
+
+.airport-panel-close:hover {
+  color: #e2e8f0;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+/* ── Tabs ── */
+.airport-panel-tabs {
+  display: flex;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  flex-shrink: 0;
+}
+
+.airport-panel-tab {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  padding: 9px 4px;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.airport-panel-tab:hover {
+  color: #94a3b8;
+}
+
+.airport-panel-tab.is-active {
+  color: #93c5fd;
+  border-bottom-color: #93c5fd;
+}
+
+.ap-tab-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16px;
+  height: 16px;
+  padding: 0 4px;
+  border-radius: 8px;
+  background: #ef4444;
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 800;
+}
+
+/* ── Body ── */
+.airport-panel-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 14px 16px;
+}
+
+.ap-empty {
+  color: #475569;
+  font-size: 12px;
+  padding: 12px 0;
+  text-align: center;
+}
+
+/* ── METAR ── */
+.ap-raw {
+  margin-bottom: 12px;
+  padding: 8px 10px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: #94a3b8;
+  font-family: 'Consolas', 'Menlo', monospace;
+  font-size: 11px;
+  line-height: 1.5;
+  word-break: break-all;
+}
+
+.ap-dl {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.ap-dl > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.ap-dl > div:last-child {
+  border-bottom: none;
+}
+
+.ap-dl dt {
+  flex-shrink: 0;
+  color: #64748b;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  width: 90px;
+}
+
+.ap-dl dd {
+  margin: 0;
+  color: #e2e8f0;
+  font-size: 13px;
+  font-weight: 600;
+  text-align: right;
+  font-family: 'Consolas', 'Menlo', monospace;
+}
+
+/* ── TAF ── */
+.ap-taf-header {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  color: #64748b;
+  font-size: 11px;
+}
+
+.ap-taf-period {
+  margin-bottom: 8px;
+  padding: 9px 10px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.ap-taf-period-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 5px;
+}
+
+.ap-taf-type {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.ap-taf-type--base   { background: rgba(59, 130, 246, 0.2); color: #93c5fd; }
+.ap-taf-type--becmg  { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; }
+.ap-taf-type--tempo  { background: rgba(245, 158, 11, 0.2); color: #fcd34d; }
+.ap-taf-type--prob30 { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; }
+.ap-taf-type--prob40 { background: rgba(139, 92, 246, 0.2); color: #c4b5fd; }
+
+.ap-taf-time {
+  font-size: 11px;
+  color: #64748b;
+  font-family: 'Consolas', 'Menlo', monospace;
+}
+
+.ap-taf-period-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.ap-taf-period-body span {
+  font-size: 12px;
+  font-family: 'Consolas', 'Menlo', monospace;
+  color: #cbd5e1;
+  background: rgba(255, 255, 255, 0.04);
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+/* ── AMOS ── */
+.ap-amos .ap-dl dd {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* ── WARNING ── */
+.ap-warnings {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ap-warning-item {
+  padding: 10px 12px;
+  border-radius: 5px;
+  border-left: 3px solid #94a3b8;
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.ap-warning-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 4px;
+}
+
+.ap-warning-type {
+  font-size: 12px;
+  font-weight: 800;
+  color: #e2e8f0;
+}
+
+.ap-warning-level {
+  font-size: 10px;
+  font-weight: 700;
+  color: #94a3b8;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+
+.ap-warning-time {
+  font-size: 11px;
+  color: #64748b;
+  font-family: 'Consolas', 'Menlo', monospace;
+  margin-bottom: 4px;
+}
+
+.ap-warning-text {
+  font-size: 11px;
+  color: #94a3b8;
+  line-height: 1.45;
+}

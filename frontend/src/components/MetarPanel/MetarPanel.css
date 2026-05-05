@@ -1,0 +1,104 @@
+.metar-panel {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  width: 320px;
+  background: rgba(20, 24, 32, 0.95);
+  color: #e2e8f0;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  font-family: 'Consolas', 'Menlo', 'Monaco', monospace;
+  font-size: 13px;
+  z-index: 10;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+}
+
+.metar-panel-header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 10px 12px;
+  background: rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.metar-panel-icao {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: #93c5fd;
+}
+
+.metar-panel-name {
+  flex: 1;
+  font-size: 11px;
+  color: #94a3b8;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.metar-panel-close {
+  margin-left: auto;
+  background: none;
+  border: none;
+  color: #64748b;
+  cursor: pointer;
+  font-size: 14px;
+  padding: 0 2px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+
+.metar-panel-close:hover {
+  color: #e2e8f0;
+}
+
+.metar-panel-body {
+  padding: 12px;
+}
+
+.metar-panel-status {
+  color: #94a3b8;
+  font-size: 12px;
+  padding: 4px 0;
+}
+
+.metar-panel-error {
+  color: #f87171;
+}
+
+.metar-data {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.metar-data > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.metar-data dt {
+  color: #64748b;
+  flex-shrink: 0;
+  width: 90px;
+}
+
+.metar-data dd {
+  margin: 0;
+  color: #e2e8f0;
+  text-align: right;
+  word-break: break-all;
+}
+
+.metar-panel-fetched {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  font-size: 10px;
+  color: #475569;
+}

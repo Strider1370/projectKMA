@@ -1,0 +1,43 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #f0f4f8;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  width: 100vw;
+  height: 100vh;
+}
+
+.map-shell {
+  margin-left: 60px;
+  width: calc(100vw - 60px);
+  height: calc(100vh - 24px);
+}
+
+.utc-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 20;
+  height: 24px;
+  padding-left: 8px;
+  border-top: 1px solid #e2e8f0;
+  background: #ffffff;
+  color: #94a3b8;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  font-size: 11px;
+  line-height: 23px;
+}
