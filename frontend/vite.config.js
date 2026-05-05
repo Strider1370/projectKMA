@@ -10,7 +10,17 @@ export default defineConfig({
         target: 'http://localhost:3001',
         changeOrigin: true,
       },
-      '/data': {
+      // Backend-generated data (radar, satellite, sigwx images)
+      // Frontend public/data/ serves aviation geojson — don't catch those here
+      '/data/radar': {
+        target: 'http://localhost:3001',
+        changeOrigin: true,
+      },
+      '/data/satellite': {
+        target: 'http://localhost:3001',
+        changeOrigin: true,
+      },
+      '/data/sigwx_low': {
         target: 'http://localhost:3001',
         changeOrigin: true,
       },

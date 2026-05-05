@@ -289,3 +289,5 @@ export function parse(xmlString) {
   if (!parsed.header.icao) return null
   return parsed
 }
+
+export default { parse }
