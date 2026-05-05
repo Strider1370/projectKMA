@@ -13,7 +13,7 @@ const bottomItems = [
   { label: 'Settings', icon: Settings },
 ]
 
-function SidebarButton({ item }) {
+function SidebarButton({ item, onClick }) {
   const Icon = item.icon
 
   return (
@@ -21,18 +21,23 @@ function SidebarButton({ item }) {
       className={`sidebar-button${item.active ? ' is-active' : ''}`}
       type="button"
       aria-label={item.label}
+      onClick={onClick}
     >
       <Icon size={20} strokeWidth={2} />
     </button>
   )
 }
 
-function Sidebar() {
+function Sidebar({ activePanel, onPanelToggle }) {
   return (
     <aside className="sidebar">
       <div className="sidebar-group">
         {topItems.map((item) => (
-          <SidebarButton key={item.label} item={item} />
+          <SidebarButton
+            key={item.label}
+            item={{ ...item, active: item.label === 'Layers' ? activePanel === 'route-check' : item.active }}
+            onClick={item.label === 'Layers' ? () => onPanelToggle('route-check') : undefined}
+          />
         ))}
       </div>
       <div className="sidebar-group sidebar-group-bottom">

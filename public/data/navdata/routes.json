@@ -1,0 +1,645 @@
+{
+  "A582": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "A582",
+    "segmentCount": 10,
+    "sequence": [
+      "SEL",
+      "POLEG",
+      "SOT",
+      "OSPOT",
+      "VASLI",
+      "MAKDU",
+      "BITUX",
+      "TGU",
+      "KALOD",
+      "PSN",
+      "APELA"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "A595": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "A595",
+    "segmentCount": 2,
+    "sequence": [
+      "CJU",
+      "TAMNA",
+      "SAMDO"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "B467": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "B467",
+    "segmentCount": 6,
+    "sequence": [
+      "KAE",
+      "LESBU",
+      "UGOVI",
+      "BUSKO",
+      "TENAS",
+      "MALSO",
+      "KANSU"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "B576": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "B576",
+    "segmentCount": 15,
+    "sequence": [
+      "SEL",
+      "POLEG",
+      "SOT",
+      "OLMEN",
+      "ENTEL",
+      "RINBO",
+      "LINTA",
+      "KWA",
+      "IPDAS",
+      "CJU",
+      "SOSDO",
+      "SAMLO",
+      "NIRAT",
+      "ELGEP",
+      "TESIM",
+      "ATOTI"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "G585": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "G585",
+    "segmentCount": 11,
+    "sequence": [
+      "SEL",
+      "KALMA",
+      "KAKSO",
+      "GUKDO",
+      "ENSAL",
+      "BASEM",
+      "BIGOB",
+      "CUN",
+      "ELAPI",
+      "KPO",
+      "BULGA",
+      "SAPRA"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "G597": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "G597",
+    "segmentCount": 16,
+    "sequence": [
+      "AGAVO",
+      "GONAV",
+      "DANTI",
+      "ANSIM",
+      "BINIL",
+      "NOPIK",
+      "GOGET",
+      "SEL",
+      "EGOBA",
+      "KARBU",
+      "TORUS",
+      "BIKSI",
+      "KAE",
+      "PILIT",
+      "ESNEG",
+      "AGSUS",
+      "LANAT"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "L512": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "L512",
+    "segmentCount": 2,
+    "sequence": [
+      "TENAS",
+      "SABET",
+      "ANDOL"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "V543": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "V543",
+    "segmentCount": 8,
+    "sequence": [
+      "DALSU",
+      "KWA",
+      "SAMUL",
+      "TEDAN",
+      "ANUBA",
+      "SAPDI",
+      "SARAM",
+      "ANKUS",
+      "PSN"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "W45": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "W45",
+    "segmentCount": 2,
+    "sequence": [
+      "KWJ",
+      "RIMPO",
+      "PSN"
+    ],
+    "sequenceSource": "ENR 3.1 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "ATS"
+  },
+  "Y233": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y233",
+    "segmentCount": 3,
+    "sequence": [
+      "BUSKO",
+      "SELPA",
+      "ONATA",
+      "KANSU"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y253": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y253",
+    "segmentCount": 8,
+    "sequence": [
+      "DALSU",
+      "KWA",
+      "SAMUL",
+      "TEDAN",
+      "ANUBA",
+      "SAPDI",
+      "SARAM",
+      "ANKUS",
+      "PSN"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y437": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y437",
+    "segmentCount": 6,
+    "sequence": [
+      "KAE",
+      "LESBU",
+      "UGOVI",
+      "BUSKO",
+      "TENAS",
+      "MALSO",
+      "KANSU"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y571": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y571",
+    "segmentCount": 7,
+    "sequence": [
+      "SOSDO",
+      "OMKIM",
+      "PAPLU",
+      "AKPON",
+      "NISAV",
+      "ANROD",
+      "POVEM",
+      "PSN"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y572": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y572",
+    "segmentCount": 10,
+    "sequence": [
+      "PSN",
+      "OLMUD",
+      "ENGOT",
+      "POVOR",
+      "UPGOS",
+      "BILUM",
+      "BEPKO",
+      "CJU",
+      "OMKIM",
+      "TOSAN",
+      "RUGMA"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y590": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y590",
+    "segmentCount": 3,
+    "sequence": [
+      "BEDAR",
+      "ELGEP",
+      "IKEDO",
+      "SADLI"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y644": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y644",
+    "segmentCount": 9,
+    "sequence": [
+      "AGAVO",
+      "RILRO",
+      "GONAV",
+      "BODOL",
+      "REBIT",
+      "BELTU",
+      "BOGAN",
+      "MONSI",
+      "POLEG",
+      "EGOBA"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y657": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y657",
+    "segmentCount": 2,
+    "sequence": [
+      "KWA",
+      "IGDOK",
+      "TGU"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y677": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y677",
+    "segmentCount": 5,
+    "sequence": [
+      "TOLIS",
+      "LIMDI",
+      "REMOS",
+      "CJU",
+      "TAMNA",
+      "SAMDO"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y685": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y685",
+    "segmentCount": 11,
+    "sequence": [
+      "SEL",
+      "KALMA",
+      "KAKSO",
+      "GUKDO",
+      "ENSAL",
+      "BASEM",
+      "BIGOB",
+      "CUN",
+      "ELAPI",
+      "KPO",
+      "BULGA",
+      "SAPRA"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y697": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y697",
+    "segmentCount": 16,
+    "sequence": [
+      "AGAVO",
+      "OLBIM",
+      "NOGON",
+      "ANSIM",
+      "BINIL",
+      "NOPIK",
+      "GOGET",
+      "SEL",
+      "EGOBA",
+      "KARBU",
+      "TORUS",
+      "BIKSI",
+      "KAE",
+      "PILIT",
+      "ESNEG",
+      "AGSUS",
+      "LANAT"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y711": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y711",
+    "segmentCount": 18,
+    "sequence": [
+      "MONSI",
+      "BULTI",
+      "MEKIL",
+      "GONAX",
+      "BEDES",
+      "ELPOS",
+      "MANGI",
+      "DALSU",
+      "NULDI",
+      "DOTOL",
+      "KIDOS",
+      "REMOS",
+      "PANSI",
+      "DOMKO",
+      "PONIK",
+      "IKEDO",
+      "KANKA",
+      "BONSO",
+      "MUGUS"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y722": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y722",
+    "segmentCount": 16,
+    "sequence": [
+      "SOT",
+      "OLMEN",
+      "GUNKU",
+      "PEBRI",
+      "ATASO",
+      "MAKSA",
+      "SAMUL",
+      "KAMIT",
+      "GUKSU",
+      "LOSNI",
+      "CJU",
+      "SOSDO",
+      "SAMLO",
+      "NIRAT",
+      "ELGEP",
+      "TESIM",
+      "ATOTI"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y781": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y781",
+    "segmentCount": 4,
+    "sequence": [
+      "TGU",
+      "MASTA",
+      "ANKUS",
+      "OMOTU",
+      "BESNA"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Y782": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Y782",
+    "segmentCount": 10,
+    "sequence": [
+      "SEL",
+      "POLEG",
+      "SOT",
+      "OSPOT",
+      "VASLI",
+      "MAKDU",
+      "BITUX",
+      "TGU",
+      "KALOD",
+      "PSN",
+      "APELA"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z52": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z52",
+    "segmentCount": 2,
+    "sequence": [
+      "OLMEN",
+      "POSAN",
+      "KAKSO"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z56": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z56",
+    "segmentCount": 3,
+    "sequence": [
+      "KANSU",
+      "PALDU",
+      "SABET",
+      "IGRAS"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z63": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z63",
+    "segmentCount": 1,
+    "sequence": [
+      "PILIT",
+      "LESBU"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z81": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z81",
+    "segmentCount": 1,
+    "sequence": [
+      "KIDOS",
+      "CJU"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z84": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z84",
+    "segmentCount": 1,
+    "sequence": [
+      "PSN",
+      "KALEK"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z86": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z86",
+    "segmentCount": 1,
+    "sequence": [
+      "BONSO",
+      "ATOTI"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  },
+  "Z91": {
+    "cycle": "AIRAC 2026-04-15",
+    "id": "Z91",
+    "segmentCount": 1,
+    "sequence": [
+      "PSN",
+      "INVOK"
+    ],
+    "sequenceSource": "ENR 3.3 HTML",
+    "sources": [
+      "ENR 3.1",
+      "ENR 3.2"
+    ],
+    "type": "RNAV"
+  }
+}

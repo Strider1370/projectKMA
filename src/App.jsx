@@ -13,6 +13,7 @@ function formatUtcTime(date) {
 
 function App() {
   const [utcTime, setUtcTime] = useState(() => formatUtcTime(new Date()))
+  const [activePanel, setActivePanel] = useState(null)
 
   useEffect(() => {
     const timer = window.setInterval(() => {
@@ -22,11 +23,15 @@ function App() {
     return () => window.clearInterval(timer)
   }, [])
 
+  function togglePanel(panelId) {
+    setActivePanel((currentPanel) => (currentPanel === panelId ? null : panelId))
+  }
+
   return (
     <div className="app">
-      <Sidebar />
+      <Sidebar activePanel={activePanel} onPanelToggle={togglePanel} />
       <main className="map-shell">
-        <MapView />
+        <MapView activePanel={activePanel} />
       </main>
       <div className="utc-bar">{utcTime}</div>
     </div>
